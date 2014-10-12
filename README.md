@@ -1,1 +1,2 @@
-Collaborate Reserach @ 20140413
+Literature Survey @ Crowdsourcing
+- Quality Control
