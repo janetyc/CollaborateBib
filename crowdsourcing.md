@@ -44,3 +44,12 @@
 * CSCW14 - Reviewing versus Doing: Learning and Performance in Crowd Assessment
 * CSCW14 - A Comparison of Social, Learning, and Financial Strategies on Crowd Engagement and Output Quality
 * CHI14 - Combining crowdsourcing and learning to improve engagement and performance
+
+# Situated Crowdsourcing
+## Reference
+* DIS12 - People, Content, Location: Sweet Spotting Urban Screens for Situated Engagement
+* CHI12 - CommunitySourcing: Engaging Local Crowds to Perform Expert Work via Physical Kiosks
+* Ubicomp13 - Crowdsourcing on the Spot: Altruistic Use of Public Displays, Feasibility, Performance, and Behaviours
+* DIS14 - Game of Words: Tagging Places through Crowdsourcing on Public Displays
+* UIST14 - Situated Crowdsourcing Using a Market Model
+
