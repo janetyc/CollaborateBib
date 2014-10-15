@@ -53,3 +53,11 @@
 * DIS14 - Game of Words: Tagging Places through Crowdsourcing on Public Displays
 * UIST14 - Situated Crowdsourcing Using a Market Model
 
+# Crowd Taxonomy
+## Reference
+* CHI13 - Cascade: Crowdsourcing taxonomy creation
+* HCOMP13 - Crowdsourcing Multi-Label Classification for Taxonomy Creation
+* HCOMP13 - Community clustering: Leveraging an academic crowd to form coherent sessions
+* CSCW14 - Crowd Synthesis: Extracting Categories and Clusters from Complex Data
+* CHI14 - Finding Dependencies Between Actions Using the Crowd
+* HCOMP14 - Context Trees: Crowdsourcing Global Understanding from Local Views (missing bibtex file)
