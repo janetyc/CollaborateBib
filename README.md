@@ -1,4 +1,4 @@
-Literature Survey @ Crowdsourcing
+Literature Survey @ Crowdsourcing [detail](crowdsourcing.md) [bibtex](crowdsourcing.bib)
 - Quality Control
 - Situated Crowdsourcing
 - Crowd Taxonomy (include categorization and clustering)
