@@ -61,3 +61,8 @@
 * CSCW14 - Crowd Synthesis: Extracting Categories and Clusters from Complex Data
 * CHI14 - Finding Dependencies Between Actions Using the Crowd
 * HCOMP14 - Context Trees: Crowdsourcing Global Understanding from Local Views (missing bibtex file)
+
+# Crowdsourcing Platform
+## Ethics
+* CHI13 - Turkopticon: Interrupting Worker Invisibility in Amazon Mechanical Turk
+* CSCW14 - Being A Turker

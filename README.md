@@ -1,7 +1,8 @@
-Literature Survey @ Crowdsourcing [detail](crowdsourcing.md) [bibtex](crowdsourcing.bib)
+Literature Survey @ Crowdsourcing ([detail](crowdsourcing.md), [bibtex](crowdsourcing.bib))
 - Quality Control
 - Situated Crowdsourcing
 - Crowd Taxonomy (include categorization and clustering)
+- Ethics issue for crowdsourcing marketplace
 
 ----
 TODOs
